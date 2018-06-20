@@ -42,14 +42,8 @@ class App extends React.Component {
     }, 2250);
   };
 
-  getShuffledBones = () => {
-    return bones.sort(function() {
-      return 0.5 - Math.random();
-    });
-  };
-
   render() {
-    const shuffledBones = this.getShuffledBones();
+    const shuffledBones = bones.sort(() => 0.5 - Math.random());
 
     return (
       <Wrapper>
