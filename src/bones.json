@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "Humerus",
+    "image": "https://www.a3bs.com/imagelibrary/A45-1/A45-1_01_Humerus.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ulna",
+    "image":
+      "https://www.3bscientific.hu/thumblibrary/A45-2/A45-2_01_1200_1200_Singcsont.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Radius",
+    "image":
+      "https://www.3bscientific.ru/thumblibrary/A45-3/A45-3_01_1200_1200_%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C-%D0%BB%D1%83%D1%87%D0%B5%D0%B2%D0%BE%D0%B9-%D0%BA%D0%BE%D1%81%D1%82%D0%B8.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Femur",
+    "image":
+      "https://res.cloudinary.com/dka27hlm7/image/upload/v1529439903/Femur.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Tibia",
+    "image":
+      "https://www.a3bs.com/imagelibrary/1019602/1019602_01_ORTHObones-Standard-Tibia-right.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Fibula",
+    "image": "https://www.a3bs.com/imagelibrary/A35-4/A35-4_01_Fibula.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Clavicle",
+    "image":
+      "http://res.cloudinary.com/dka27hlm7/image/upload/o_56,q_10/a_-25/v1529440890/Clavicle.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Rib",
+    "image":
+      "http://res.cloudinary.com/dka27hlm7/image/upload/c_scale,h_703,o_51,w_703/v1529441401/Rib.jpg"
+  }
+]
